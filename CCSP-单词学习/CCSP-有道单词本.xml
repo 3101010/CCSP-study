@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wordbook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<word>Software Development Life Cycle</word>
+		<trans>软件开发生命周期</trans>
+		<tags>CCSP</tags>
+		<progress>5</progress>
+	</item>
+	<item>
+		<word>Certified Cloud Security Professional</word>
+		<trans>云安全认证专家</trans>
+		<tags>CCSP</tags>
+		<progress>5</progress>
+	</item>
+	<item>
+		<word>Official Study Guide</word>
+		<trans>官方学习指南</trans>
+		<tags>CCSP</tags>
+		<progress>5</progress>
+	</item>
+	<item>
+		<word>Common Body of Knowledge</word>
+		<trans>公共知识体系</trans>
+		<tags>CCSP</tags>
+		<progress>5</progress>
+	</item>
+	<item>
+		<word>Obfuscation</word>
+		<trans>混淆</trans>
+		<tags>CCSP</tags>
+		<progress>5</progress>
+	</item>
+	<item>
+		<word>Masking</word>
+		<trans>遮蔽</trans>
+		<tags>CCSP</tags>
+		<progress>5</progress>
+	</item>
+	<item>
+		<word>Public Key Infrastructure</word>
+		<trans>公钥基础设置</trans>
+		<tags>CCSP</tags>
+		<progress>5</progress>
+	</item>
+	<item>
+		<word>Data loss， Leak prevention，and Protection</word>
+		<trans>数据丢失、泄露预防和保护</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Hardware Security Module</word>
+		<trans>硬件安全模块</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Trusted Operatiing System Module</word>
+		<trans>可信操作系统模块</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Controls Matrix</word>
+		<trans>云控制矩阵</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Broker</word>
+		<trans>代理商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Reseller</word>
+		<trans>经销商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Dynamic Application Security Testing</word>
+		<trans>动态应用程序安全测试</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Static Application Security Testing</word>
+		<trans>静态应用程序安全测试</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>The Open Web Application Security Project</word>
+		<trans>开放式Web应用程序安全项目</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Multisite Hosting</word>
+		<trans>多站点托管</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Capital Investment</word>
+		<trans>资本投资</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Multitenancy</word>
+		<trans>多租户</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Business Requirements</word>
+		<trans>业务需求</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Functional Requirements</word>
+		<trans>功能需求</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Non-Functional Requirements</word>
+		<trans>非功能需求</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Business Impact Analysis</word>
+		<trans>业务影响分析</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Tangible</word>
+		<trans>有形的</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Intangible</word>
+		<trans>无形的</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Capital Expenditure</word>
+		<trans>减少资本性支出</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Overloading</word>
+		<trans>超载</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Personally Identifiable Information</word>
+		<trans>个人身份信息</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Archival</word>
+		<trans>数据归档</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Elasticity</word>
+		<trans>弹性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Simplicity</word>
+		<trans>简单化</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Scalability</word>
+		<trans>可伸缩性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Customer</word>
+		<trans>云客户</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud User</word>
+		<trans>云用户</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>infrastructure as a service</word>
+		<trans>基础架构即服务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>platform as a service</word>
+		<trans>平台即服务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>software as a service</word>
+		<trans>软件即服务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>networking as a service</word>
+		<trans>网络即服务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>compliance as a service</word>
+		<trans>合规即服务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data science as a service</word>
+		<trans>数据科学即服务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Customer Relationship Management</word>
+		<trans>客户关系管理系统</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Public Cloud</word>
+		<trans>公有云</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Private Cloud</word>
+		<trans>私有云</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Hybrid Cloud</word>
+		<trans>混合云</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Intranet</word>
+		<trans>内联网</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Identity and Access Management</word>
+		<trans>身份和访问管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Service Provider</word>
+		<trans>云服务提供商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Customer</word>
+		<trans>云客户</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Access security Broker</word>
+		<trans>云访问安全代理商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cryptographic Key Escrow</word>
+		<trans>密钥托管</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Regulator</word>
+		<trans>监管机构</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Business Requirement</word>
+		<trans>业务需求</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Architect</word>
+		<trans>云架构师</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Backup</word>
+		<trans>云备份</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Computing</word>
+		<trans>云计算</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Computing Reseller</word>
+		<trans>云计算经销商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Carrier</word>
+		<trans>云运营商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Migration</word>
+		<trans>云迁移</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud OS</word>
+		<trans>云操作系统</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Portability</word>
+		<trans>云可移植性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Provider</word>
+		<trans>云服务提供商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Services Broker</word>
+		<trans>云服务代理商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Storage</word>
+		<trans>云存储</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Testing</word>
+		<trans>云测试</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Community Cloud</word>
+		<trans>社区云</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Enterprise Application</word>
+		<trans>企业应用系统</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Managed Service Provider</word>
+		<trans>托管服务提供商</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Multi-Tenant</word>
+		<trans>多租户</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Private Cloud</word>
+		<trans>私有云</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Trusted Cloud Initiative Reference Model </word>
+		<trans>可信云计算参考模型</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Vendor Lock-in</word>
+		<trans>供应商绑定</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Vendor Lock-out</word>
+		<trans>供应商锁定</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Virtualization</word>
+		<trans>虚拟化</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Confidentiality</word>
+		<trans>机密性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Integrity</word>
+		<trans>完整性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Availability</word>
+		<trans>可用性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Appetite</word>
+		<trans>风险偏好</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Categorization</word>
+		<trans>分类</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Classification</word>
+		<trans>分级</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>On-going Audit</word>
+		<trans>持续审计</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Service Level Agreement</word>
+		<trans>服务水平协议</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Critical path</word>
+		<trans>关键路径</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Business Impact Analysis</word>
+		<trans>业务影响分析</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Criticality</word>
+		<trans>关键性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Single Point of Failures</word>
+		<trans>单点失败</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Avoidance</word>
+		<trans>风险规避</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Acceptance</word>
+		<trans>风险接受</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Transference</word>
+		<trans>风险转移</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Mitigation</word>
+		<trans>风险环节</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Residual Risk</word>
+		<trans>残余风险</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Demilitarized Zone</word>
+		<trans>非军事区</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Due Diligence</word>
+		<trans>应尽职责</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Due Care</word>
+		<trans>应尽义务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Bring-Your-Own-Device</word>
+		<trans>自带设备办公</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Containerization Software</word>
+		<trans>容器软件</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Hommomorphic Encryption</word>
+		<trans>同态加密</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Defense in Depth</word>
+		<trans>纵深防御</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Owner</word>
+		<trans>数据所有者</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Controller</word>
+		<trans>数据控制者</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Custodian</word>
+		<trans>数据托管者</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Processor</word>
+		<trans>数据处理者</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Custody</word>
+		<trans>托管权</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Rights</word>
+		<trans>权力</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Responsibility</word>
+		<trans>责任</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Liability</word>
+		<trans>职责</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Regulatory Compliance</word>
+		<trans>监管合规</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Business Function</word>
+		<trans>业务功能</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Functional Unit</word>
+		<trans>功能单元</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>By Project </word>
+		<trans>基于项目</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Ad Hoc Categorization</word>
+		<trans>随机分类</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Classification</word>
+		<trans>数据分级</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Dataset</word>
+		<trans>数据集合</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Sensitivity</word>
+		<trans>敏感性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Jurisdiction</word>
+		<trans>司法管辖权</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Criticality</word>
+		<trans>关键性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Discovery</word>
+		<trans>数据识别</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Electronic Discovery</word>
+		<trans>电子发现</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Label-Based Discovery</word>
+		<trans>基于标签的识别</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Metadata-Based Discovery</word>
+		<trans>基于元数据的识别</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Content-Based Discovery</word>
+		<trans>基于内容的识别</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Pattern-Matching</word>
+		<trans>模式匹配</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Datamining</word>
+		<trans>数据挖掘</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Real-Time Analytics</word>
+		<trans>实时分析</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Agile Business Intelligence</word>
+		<trans>敏捷商业智能</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>takedown notice</word>
+		<trans>撤除通知</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>digital rights Management</word>
+		<trans>数字版权管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>copyright</word>
+		<trans>著作权</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>fair use</word>
+		<trans>合理使用</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>academic fair use</word>
+		<trans>学术合理使用</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>critique</word>
+		<trans>评论</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>news reporting</word>
+		<trans>新闻报道</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>scholarly research</word>
+		<trans>学术研究</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>satire</word>
+		<trans>讽刺文学</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>library preservation</word>
+		<trans>图书馆保存</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>personall backup</word>
+		<trans>个人保存</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>versions of people with physical disabilities</word>
+		<trans>身体残障人士版本</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Rudimentary Reference Checks</word>
+		<trans>基本参考检查</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Online Reference Checks</word>
+		<trans>在线参考检查</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Local Agent Checks</word>
+		<trans>本地代理检察</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Presence of Licensed Media</word>
+		<trans>许可介质保持验证</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Support-Based Licensing</word>
+		<trans>基于持续支持的许可</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Replication Restrictions</word>
+		<trans>复制的限制（限制vm的复制）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Jurisdictional Conflicts</word>
+		<trans>司法管辖权冲突</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Agent/Enterprise Conflicts</word>
+		<trans>代理/企业冲突</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Identity and Access Management</word>
+		<trans>身份和访问管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>API Conflicts</word>
+		<trans>API冲突</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Persistent Protection</word>
+		<trans>持久保护</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Dynamic Police Control</word>
+		<trans>动态策略控制</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Automatic Expiration</word>
+		<trans>自动失效</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Continuous Auditing</word>
+		<trans>持久审计</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Replication Restrictions</word>
+		<trans>复制限制（限制电子复制等）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Remote Right Revocation</word>
+		<trans>远程权限撤销</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Disposal</word>
+		<trans>废弃</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Retention</word>
+		<trans>数据保留</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Retention Periods</word>
+		<trans>保留期</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Applicable Regulation</word>
+		<trans>适用的法律法规</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Retention Formats</word>
+		<trans>保留格式</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Classification</word>
+		<trans>数据分级</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Archiving and Retrieval Procedures</word>
+		<trans>归档和检索程序</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Monitoring,Maintenance,and Enforcement</word>
+		<trans>持续监测、维护和执行</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Audit</word>
+		<trans>数据审计</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Audit Period</word>
+		<trans>审计周期</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Audit Scope</word>
+		<trans>审计范围</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Review</word>
+		<trans>审查</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Validity</word>
+		<trans>有效性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Physical Destruction</word>
+		<trans>介质和硬件的物理销毁技术</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Sanitization</word>
+		<trans>数据脱敏/数据清洗</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Degaussing</word>
+		<trans>消磁技术</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Overwriting</word>
+		<trans>复写技术</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Crypto Shredding 或AKA Cryptographic Erasure</word>
+		<trans>加密擦除技术</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Delete</word>
+		<trans>删除（不会擦除数据本身，只是一个操作）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Remove</word>
+		<trans>移除</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Remanence</word>
+		<trans>数据残留</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Create</word>
+		<trans>创建阶段</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Store</word>
+		<trans>存储阶段（短期）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Archive</word>
+		<trans>归档阶段（长期）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Use</word>
+		<trans>使用阶段</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Share</word>
+		<trans>共享阶段</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Destroy</word>
+		<trans>销毁阶段</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Collaboration</word>
+		<trans>协作/合作</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cryptograhpy</word>
+		<trans>密码学</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Location</word>
+		<trans>物理位置</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Formate</word>
+		<trans>数据格式</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Staff</word>
+		<trans>工作人员</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Procedure</word>
+		<trans>流程</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Credentiial</word>
+		<trans>安全凭证</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Crypto-Shredding</word>
+		<trans>加密擦除技术</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Volume Storage</word>
+		<trans>卷存储</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Erasure Coding</word>
+		<trans>纠偏编码</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Content Delivery Network</word>
+		<trans>内容分发网络</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data in Rest</word>
+		<trans>存储的数据</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data in Transit</word>
+		<trans>传输中的数据</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data in Use</word>
+		<trans>使用中的数据</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Key Management</word>
+		<trans>密钥管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Level of Protection</word>
+		<trans>保护水平</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Key Recovery</word>
+		<trans>密钥恢复</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Key Distribution</word>
+		<trans>密钥分发</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Key Revocation</word>
+		<trans>密钥撤销</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Key Escrow</word>
+		<trans>密钥托管</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Outsourcing Key Management</word>
+		<trans>外包密钥管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Homomorphic Encryption</word>
+		<trans>同态加密</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Randomization</word>
+		<trans>随机化</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Hashing</word>
+		<trans>散列</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Shuffling</word>
+		<trans>打乱</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Masking</word>
+		<trans>遮蔽</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Anoymization</word>
+		<trans>匿名</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Tokenization</word>
+		<trans>标记技术</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Security Information and Event Management</word>
+		<trans>安全信息和事件管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Advanced Persistent Threat</word>
+		<trans>高可持续性渗透攻击</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Intrusion Detection System</word>
+		<trans>入侵检测系统</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Intrusiong Prevention System</word>
+		<trans>入侵防御系统</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Honeypot</word>
+		<trans>蜜罐</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Vulnerability Assessment</word>
+		<trans>漏洞评估</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Zero-Day exploit</word>
+		<trans>零日攻击</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Management Plane</word>
+		<trans>管理平面</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Control Plane</word>
+		<trans>控制平面</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Forklifting</word>
+		<trans>垂直升降</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>on-premise</word>
+		<trans>本地/预制的</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Application Security Control</word>
+		<trans>应用安全控制</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>provisioning</word>
+		<trans>配置</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Access Management</word>
+		<trans>访问管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Authentication</word>
+		<trans>身份验证</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Authorization</word>
+		<trans>授权</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Policy Management</word>
+		<trans>策略管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Federation</word>
+		<trans>联合管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Identity Repository</word>
+		<trans>身份存储库</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Web-of-Trust</word>
+		<trans>信任网</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Security Assertion Markup Language</word>
+		<trans>安全断言标记语言</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Database Activity Monitoring</word>
+		<trans>数据库活动检测</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Representational State Transfer</word>
+		<trans>表述性状态转移</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Simple Object Access Protocol</word>
+		<trans>简单对象访问协议</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Transport Layer Security</word>
+		<trans>传输层安全</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Secure Sockets Layer</word>
+		<trans>安全套接字层</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Virtual Private Networks</word>
+		<trans>虚拟专用网络</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Whole-Instance Encryption</word>
+		<trans>全实例加密</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Volume Encrypton</word>
+		<trans>卷加密</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Spoofing</word>
+		<trans>欺骗</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Tampering</word>
+		<trans>篡改</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Repudiation</word>
+		<trans>抵赖</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Information Disclosure</word>
+		<trans>信息泄露</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Denial of Service</word>
+		<trans>拒绝服务</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Elevation of Privilege</word>
+		<trans>特权提升</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Injection</word>
+		<trans>注入</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Broken Authentication</word>
+		<trans>失效的身份认证</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cross-Site Scripting</word>
+		<trans>跨站脚本</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Insecure Direct Object Access</word>
+		<trans>不安全的直接对象访问</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Security Misconfigurations</word>
+		<trans>安全错误配置</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Sensitive Data Exposure</word>
+		<trans>敏感数据泄露</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Missing Function-Level Access Control</word>
+		<trans>功能级访问控制缺失</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cross-Site Request Forgery</word>
+		<trans>跨站请求伪造</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Using Components with Known Vulnerabilities</word>
+		<trans>使用包含已知漏洞的组件</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Invalidated Redirects and Forwards</word>
+		<trans>未验证的重定向和转发</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Software Supply Chain Management</word>
+		<trans>软件供应链管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Runtime Application Self-Protection</word>
+		<trans>运行时应用自我保护</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Ventilation and Air Conditioning</word>
+		<trans>供热通风与空气调节</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Conditioning</word>
+		<trans>调节</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Surge Protector</word>
+		<trans>浪涌保护器</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Spike</word>
+		<trans>电力尖峰</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cross-Training</word>
+		<trans>交叉培训</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Defense in Depth</word>
+		<trans>纵深防御</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Basic Site Infrastructure （Tier1）</word>
+		<trans>基本站点架构</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Uninterruptible Power Supply</word>
+		<trans>不间断电源</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Redundant Site Infrastructure Capacity Components （Tier2）</word>
+		<trans>冗余站点基础架构能力组件</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Concurrently Maintainable Site Infrastructure （Tier3）</word>
+		<trans>并行维护站点基础架构</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Fault-Tolerant Site Infrastructure （Tier4）</word>
+		<trans>容错站点基础架构</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Redundant Arrays of Independent Drives</word>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Dispersion</word>
+		<trans>数据分散化</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Striping</word>
+		<trans>条块化</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Parity bit</word>
+		<trans>奇偶校验位</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Chunk</word>
+		<trans>分块</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Bit Splitting</word>
+		<trans>位列技术，云环境的RAID</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Network Attached Storage</word>
+		<trans>网络附属存储</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Storage Area Network</word>
+		<trans>存储区域网络</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Air-Gapped Pushbutton</word>
+		<trans>物理隔离切换开关</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Awareness</word>
+		<trans>意识宣贯（提醒，非正式，自愿性）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Training</word>
+		<trans>培训（专家进行介绍）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Education</word>
+		<trans>教育（为了获取学分）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Initial</word>
+		<trans>首次</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Recurring</word>
+		<trans>定期</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Refresher</word>
+		<trans>复习</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Acceptable Use Policy</word>
+		<trans>可接受使用政策</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Live Training</word>
+		<trans>现场培训</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Online Courseware</word>
+		<trans>在线课程</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>OS Loging</word>
+		<trans>操作系统日志</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Hardware Monitoring</word>
+		<trans>硬件的持续监测</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Network Monitoring</word>
+		<trans>网络的持续监测</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Change Management</word>
+		<trans>变更管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Configuration Management</word>
+		<trans>配置管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Business Continuity</word>
+		<trans>业务连续性</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Disaster Recovery</word>
+		<trans>灾难恢复</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Maximum Allowable Downtime</word>
+		<trans>最大允许停机时间</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Recovery Time Objective</word>
+		<trans>恢复时间目标</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Recovery Point Objective</word>
+		<trans>恢复点目标</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Uniform Code of Military Justice</word>
+		<trans>统一军法典</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Doctrine of the Proper Law</word>
+		<trans>准据法</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Restatement（second） Conflict of Law</word>
+		<trans>第二次冲突法重述</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Criminal Law</word>
+		<trans>刑法</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Prosecution</word>
+		<trans>起诉</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>State Laws</word>
+		<trans>州法律</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Rederal Laws</word>
+		<trans>联邦法律</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Final Omnibus Rule</word>
+		<trans>最终综合法律</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Civil Law</word>
+		<trans>民法</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Common Law</word>
+		<trans>习惯法</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Administrative Law</word>
+		<trans>行政法</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Intellectual Preperty</word>
+		<trans>知识产权</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Copyright</word>
+		<trans>版权</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Work Right</word>
+		<trans>作品权力</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Work for Hire</word>
+		<trans>雇佣作品</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Trademark</word>
+		<trans>商标</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Patent</word>
+		<trans>专利</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Trade Securet</word>
+		<trans>商业秘密</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Lawsuit</word>
+		<trans>诉讼（民事）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Litigation</word>
+		<trans>诉讼（民事）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Contract</word>
+		<trans>合同</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Service-Level Agreement</word>
+		<trans>服务水平协议</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Privacy-Level Agreement</word>
+		<trans>隐私水平协议</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Operational-Level Agreement</word>
+		<trans>运营水平协议</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Payment Card Industry Data Security Standards</word>
+		<trans>支付卡行业数据安全标准</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>The Electronic Communication Privacy Act</word>
+		<trans>电子通信隐私法案</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Stored Communication Act</word>
+		<trans>存储通信法案</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Gramm-Leach-Bliley Act</word>
+		<trans>金融服务现代化法案（格雷姆-里奇-比利雷法案）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Sarbanes-Oxley Act</word>
+		<trans>公众公司会计改革和投资者保护法案（萨班斯-奥克斯利法案）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>electronic Protected Health Infromation</word>
+		<trans>受保护的电子化健康信息</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Family Educational Rights and Privacy Act</word>
+		<trans>家庭教育权力和隐私法案</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>The Digital Millennium Copyright Act</word>
+		<trans>电子千年版权法案</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Office for Civil Rights</word>
+		<trans>民权办公室</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Department of Health and Human Services</word>
+		<trans>美国卫生和公共服务部</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Privacy Rule</word>
+		<trans>隐私规则</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Security Rule</word>
+		<trans>安全规则</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Health Information Technology for Economic and Clinical Health</word>
+		<trans>紧急和临床健康信息技术</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Information Security Plan</word>
+		<trans>信息安全计划</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Information Security Officer</word>
+		<trans>信息安全官</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Securities and Exchange Commission</word>
+		<trans>证券交易委员会</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>opt-out</word>
+		<trans>选择不参加</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>opt-in</word>
+		<trans>选择参加</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Personally Identifiable Information</word>
+		<trans>个人身份信息</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Privacy Regulation</word>
+		<trans>隐私法规</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Notice</word>
+		<trans>提示</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Choice</word>
+		<trans>选择</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Purpose</word>
+		<trans>目的</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Access</word>
+		<trans>访问管理</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Integrity</word>
+		<trans>完整</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Security</word>
+		<trans>安全</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Enforcement</word>
+		<trans>执法</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Organization for Economic Cooperation and Development</word>
+		<trans>经济合作和发展组织</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Department of Commerce</word>
+		<trans>美国商务部</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Department of Transportation</word>
+		<trans>美国交通部</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Federal Trade Commission</word>
+		<trans>联邦贸易委员会</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Privacy Shield</word>
+		<trans>隐私护盾</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Subject</word>
+		<trans>数据主体</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Controller</word>
+		<trans>数据控制者</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Data Processor</word>
+		<trans>数据处理者</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Personal Information Protection and Electronic Documents Act</word>
+		<trans>个人信息保护和电子文档法案（加拿大）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Personal Data Protection</word>
+		<trans>个人数据保护方案（阿根廷）</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>European Free Trade Association</word>
+		<trans>欧洲自由贸易联盟</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Asia-Pacific Economic Cooperation</word>
+		<trans>亚太经合组织</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Privacy Framework</word>
+		<trans>隐私框架</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Electronic Discovery</word>
+		<trans>电子发现</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Chain of Custody</word>
+		<trans>证据保管链</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>On-Premise</word>
+		<trans>内部创建</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Off-Premise</word>
+		<trans>外部创建</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Direct Identifier</word>
+		<trans>直接标识</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Virtualization</word>
+		<trans>虚拟化</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Hypervisor</word>
+		<trans>虚拟机管理程序</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Abstraction Layer</word>
+		<trans>抽象层</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Gap Analysis</word>
+		<trans>差距分析</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Right of Audit</word>
+		<trans>审计权</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Due Diligence</word>
+		<trans>应尽职责</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Chief Audit Executive</word>
+		<trans>首席审计官</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>American Institute of Certified Professional Accountants</word>
+		<trans>美国注册会计师协会</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Generally Accepted Accounting Practices</word>
+		<trans>通用会计准则</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Key Risk Indicators</word>
+		<trans>关键风险指标</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Appetite/Tolerance</word>
+		<trans>风险偏好/容忍度</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Profiles</word>
+		<trans>风险概况</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Owners and Players</word>
+		<trans>风险所有者和参与者</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Avoidance</word>
+		<trans>风险规避</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Acceptance</word>
+		<trans>风险接受</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Transference</word>
+		<trans>风险转移</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Risk Mitigation</word>
+		<trans>风险缓解</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Cloud Certification Schemes Metaframework</word>
+		<trans>云认证计划元框架</trans>
+		<tags>CCSP</tags>
+	</item>
+	<item>
+		<word>Consensus Assessments Initiative Questionnaire</word>
+		<trans>共识评估倡议问卷</trans>
+		<tags>CCSP</tags>
+	</item>
+</wordbook>
